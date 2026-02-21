@@ -1,0 +1,107 @@
+2026-02-21T15:40:46.058188+00:00 ubuntu systemd-logind[609]: Watching system buttons on /dev/input/event0 (Power Button)
+2026-02-21T15:40:46.058195+00:00 ubuntu systemd-logind[609]: Watching system buttons on /dev/input/event1 (AT Translated Set 2 keyboard)
+2026-02-21T15:40:46.058198+00:00 ubuntu systemd-logind[609]: New seat seat0.
+2026-02-21T15:40:46.058221+00:00 ubuntu CRON[655]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-21T15:40:46.058253+00:00 ubuntu polkitd[602]: Loading rules from directory /etc/polkit-1/rules.d
+2026-02-21T15:40:46.058264+00:00 ubuntu polkitd[602]: Loading rules from directory /usr/share/polkit-1/rules.d
+2026-02-21T15:40:46.058272+00:00 ubuntu polkitd[602]: Finished loading, compiling and executing 6 rules
+2026-02-21T15:40:46.058286+00:00 ubuntu polkitd[602]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+2026-02-21T15:40:52.290719+00:00 ubuntu CRON[655]: pam_unix(cron:session): session closed for user root
+2026-02-21T15:40:52.479884+00:00 ubuntu sshd[1192]: Server listening on 0.0.0.0 port 22.
+2026-02-21T15:40:52.480116+00:00 ubuntu sshd[1192]: Server listening on :: port 22.
+2026-02-21T15:40:52.502638+00:00 ubuntu sshd[1193]: Accepted password for kc-internal from 10.244.7.231 port 60264 ssh2
+2026-02-21T15:40:52.979580+00:00 ubuntu sshd[1196]: Accepted password for kc-internal from 10.244.7.231 port 60270 ssh2
+2026-02-21T15:41:14.635248+00:00 ubuntu sshd[1579]: Accepted password for kc-internal from 10.244.7.231 port 50334 ssh2
+
+2026-02-21T15:44:12.111111+00:00 ubuntu sshd[1600]: Failed password for invalid user admin from 203.0.113.45 port 42111 ssh2
+2026-02-21T15:44:15.111222+00:00 ubuntu sshd[1600]: Failed password for invalid user admin from 203.0.113.45 port 42115 ssh2
+2026-02-21T15:44:18.111333+00:00 ubuntu sshd[1600]: Failed password for invalid user admin from 203.0.113.45 port 42119 ssh2
+2026-02-21T15:44:21.111444+00:00 ubuntu sshd[1600]: Failed password for invalid user admin from 203.0.113.45 port 42123 ssh2
+2026-02-21T15:44:24.111555+00:00 ubuntu sshd[1600]: Failed password for invalid user admin from 203.0.113.45 port 42127 ssh2
+
+2026-02-21T15:45:01.303103+00:00 ubuntu CRON[1590]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-21T15:45:01.315535+00:00 ubuntu CRON[1590]: pam_unix(cron:session): session closed for user root
+
+2026-02-21T15:46:10.222222+00:00 ubuntu sshd[1610]: Failed password for root from 198.51.100.77 port 49821 ssh2
+2026-02-21T15:46:15.222333+00:00 ubuntu sshd[1610]: Failed password for root from 198.51.100.77 port 49825 ssh2
+2026-02-21T15:46:20.222444+00:00 ubuntu sshd[1610]: Failed password for root from 198.51.100.77 port 49829 ssh2
+
+2026-02-21T15:47:05.333333+00:00 ubuntu sshd[1620]: Accepted password for kc-internal from 198.51.100.77 port 50001 ssh2
+2026-02-21T15:47:08.444444+00:00 ubuntu sudo:    kc-internal : TTY=pts/1 ; PWD=/home/kc-internal ; USER=root ; COMMAND=/bin/cat /etc/shadow
+
+2026-02-21T15:51:31.470723+00:00 ubuntu sshd[1659]: Accepted password for kc-internal from 10.244.4.132 port 60908 ssh2
+2026-02-21T15:51:32.516860+00:00 ubuntu sshd[1662]: Accepted password for kc-internal from 10.244.4.95 port 42304 ssh2
+2026-02-21T15:55:01.330038+00:00 ubuntu CRON[1665]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-21T15:55:01.337943+00:00 ubuntu CRON[1665]: pam_unix(cron:session): session closed for user root
+2026-02-21T16:02:05.182196+00:00 ubuntu sshd[1678]: Accepted password for kc-internal from 10.244.4.52 port 57432 ssh2
+2026-02-21T16:02:05.830924+00:00 ubuntu sshd[1681]: Accepted password for kc-internal from 10.244.3.8 port 48902 ssh2
+2026-02-21T16:02:06.090425+00:00 ubuntu sshd[1684]: Accepted password for kc-internal from 10.244.6.97 port 42988 ssh2
+2026-02-21T16:02:06.554411+00:00 ubuntu sshd[1687]: Accepted password for kc-internal from 10.244.4.19 port 55060 ssh2
+2026-02-21T16:05:01.349141+00:00 ubuntu CRON[1690]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-21T16:05:01.358251+00:00 ubuntu CRON[1690]: pam_unix(cron:session): session closed for user root
+2026-02-21T16:09:01.367662+00:00 ubuntu CRON[1694]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-21T16:09:01.374470+00:00 ubuntu CRON[1694]: pam_unix(cron:session): session closed for user root
+2026-02-21T16:12:07.909813+00:00 ubuntu sshd[1730]: Accepted password for kc-internal from 10.244.6.116 port 46678 ssh2
+2026-02-21T16:12:08.530352+00:00 ubuntu sshd[1733]: Accepted password for kc-internal from 10.244.3.6 port 57666 ssh2
+2026-02-21T16:12:08.982253+00:00 ubuntu sshd[1736]: Accepted password for kc-internal from 10.244.4.19 port 47640 ssh2
+2026-02-21T16:15:01.380524+00:00 ubuntu CRON[1741]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-21T16:15:01.384122+00:00 ubuntu CRON[1741]: pam_unix(cron:session): session closed for user root
+2026-02-21T16:17:01.390762+00:00 ubuntu CRON[1744]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-21T16:17:01.398155+00:00 ubuntu CRON[1744]: pam_unix(cron:session): session closed for user root
+2026-02-21T16:22:08.560445+00:00 ubuntu sshd[1755]: Accepted password for kc-internal from 10.244.7.52 port 38992 ssh2
+2026-02-21T16:25:01.405105+00:00 ubuntu CRON[1759]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-21T16:25:01.408363+00:00 ubuntu CRON[1759]: pam_unix(cron:session): session closed for user root
+2026-02-21T16:32:09.440691+00:00 ubuntu sshd[1769]: Accepted password for kc-internal from 10.244.4.52 port 51112 ssh2
+2026-02-21T16:35:01.428573+00:00 ubuntu CRON[1786]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-21T16:35:01.453122+00:00 ubuntu CRON[1786]: pam_unix(cron:session): session closed for user root
+2026-02-21T16:39:01.459242+00:00 ubuntu CRON[1793]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-21T16:39:01.463629+00:00 ubuntu CRON[1793]: pam_unix(cron:session): session closed for user root
+2026-02-21T16:42:10.157699+00:00 ubuntu sshd[1831]: Accepted password for kc-internal from 10.244.4.52 port 46422 ssh2
+2026-02-21T16:45:01.468773+00:00 ubuntu CRON[1835]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-21T16:45:01.473847+00:00 ubuntu CRON[1835]: pam_unix(cron:session): session closed for user root
+2026-02-21T16:52:10.213951+00:00 ubuntu sshd[1843]: Accepted password for kc-internal from 10.244.3.8 port 39470 ssh2
+2026-02-21T16:55:01.482413+00:00 ubuntu CRON[1847]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-21T16:55:01.487246+00:00 ubuntu CRON[1847]: pam_unix(cron:session): session closed for user root
+2026-02-21T17:02:30.984675+00:00 ubuntu sshd[1856]: Accepted password for kc-internal from 10.244.6.116 port 42898 ssh2
+2026-02-21T17:05:01.498775+00:00 ubuntu CRON[1859]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-21T17:05:01.507512+00:00 ubuntu CRON[1859]: pam_unix(cron:session): session closed for user root
+2026-02-21T17:09:01.513309+00:00 ubuntu CRON[1863]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-21T17:09:01.517068+00:00 ubuntu CRON[1863]: pam_unix(cron:session): session closed for user root
+2026-02-21T17:12:37.968828+00:00 ubuntu sshd[1900]: Accepted password for kc-internal from 10.244.7.52 port 41876 ssh2
+2026-02-21T17:12:45.689416+00:00 ubuntu sshd[1903]: Accepted password for kc-internal from 10.244.7.105 port 34058 ssh2
+2026-02-21T17:15:01.521966+00:00 ubuntu CRON[1921]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-21T17:15:01.526727+00:00 ubuntu CRON[1921]: pam_unix(cron:session): session closed for user root
+2026-02-21T17:17:01.537122+00:00 ubuntu CRON[1925]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-21T17:17:01.545396+00:00 ubuntu CRON[1925]: pam_unix(cron:session): session closed for user root
+2026-02-21T17:23:00.003817+00:00 ubuntu sshd[1937]: Accepted password for kc-internal from 10.244.4.52 port 39034 ssh2
+2026-02-21T17:23:00.426209+00:00 ubuntu sshd[1940]: Accepted password for kc-internal from 10.244.6.97 port 59232 ssh2
+2026-02-21T17:25:01.553073+00:00 ubuntu CRON[1943]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-21T17:25:01.557834+00:00 ubuntu CRON[1943]: pam_unix(cron:session): session closed for user root
+2026-02-21T17:33:00.939160+00:00 ubuntu sshd[1952]: Accepted password for kc-internal from 10.244.7.52 port 53604 ssh2
+2026-02-21T17:35:01.565631+00:00 ubuntu CRON[1956]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-21T17:35:01.568778+00:00 ubuntu CRON[1956]: pam_unix(cron:session): session closed for user root
+2026-02-21T17:39:01.573320+00:00 ubuntu CRON[1960]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-21T17:39:01.576744+00:00 ubuntu CRON[1960]: pam_unix(cron:session): session closed for user root
+2026-02-21T17:43:00.686763+00:00 ubuntu sshd[1997]: Accepted password for kc-internal from 10.244.6.97 port 46222 ssh2
+2026-02-21T17:43:01.674084+00:00 ubuntu sshd[2000]: Accepted password for kc-internal from 10.244.4.52 port 46178 ssh2
+2026-02-21T17:45:01.581278+00:00 ubuntu CRON[2004]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-21T17:45:01.585815+00:00 ubuntu CRON[2004]: pam_unix(cron:session): session closed for user root
+2026-02-21T17:53:01.887837+00:00 ubuntu sshd[2012]: Accepted password for kc-internal from 10.244.7.105 port 44132 ssh2
+2026-02-21T17:55:01.595912+00:00 ubuntu CRON[2015]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-21T17:55:01.604936+00:00 ubuntu CRON[2015]: pam_unix(cron:session): session closed for user root
+2026-02-21T18:03:01.406566+00:00 ubuntu sshd[2025]: Accepted password for kc-internal from 10.244.8.53 port 34958 ssh2
+2026-02-21T18:05:01.613862+00:00 ubuntu CRON[2028]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-21T18:05:01.617985+00:00 ubuntu CRON[2028]: pam_unix(cron:session): session closed for user root
+2026-02-21T18:09:01.623715+00:00 ubuntu CRON[2032]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-21T18:09:01.628392+00:00 ubuntu CRON[2032]: pam_unix(cron:session): session closed for user root
+2026-02-21T18:13:01.702950+00:00 ubuntu sshd[2068]: Accepted password for kc-internal from 10.244.7.234 port 49002 ssh2
+2026-02-21T18:15:01.632965+00:00 ubuntu CRON[2072]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-21T18:15:01.638504+00:00 ubuntu CRON[2072]: pam_unix(cron:session): session closed for user root
+2026-02-21T18:17:01.647938+00:00 ubuntu CRON[2075]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-02-21T18:17:01.656484+00:00 ubuntu CRON[2075]: pam_unix(cron:session): session closed for user root
+2026-02-21T18:19:12.881561+00:00 ubuntu sshd[2093]: Accepted password for kc-internal from 10.244.3.18 port 57318 ssh2
+2026-02-21T18:19:13.458316+00:00 ubuntu sshd[2096]: Accepted password for kc-internal from 10.244.3.18 port 57332 ssh2
+2026-02-21T18:19:13.542855+00:00 ubuntu sshd[2099]: Accepted password for kc-internal from 10.244.3.18 port 57342 ssh2
+2026-02-21T18:21:51.182849+00:00 ubuntu sudo:     root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/grep 'Failed password' /var/log/auth.log
+2026-02-21T18:21:51.184734+00:00 ubuntu sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=0)
+2026-02-21T18:21:51.189407+00:00 ubuntu sudo: pam_unix(sudo:session): session closed for user root
